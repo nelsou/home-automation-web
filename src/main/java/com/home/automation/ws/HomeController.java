@@ -1,9 +1,8 @@
-package com.ausy.syf.rps.ws;
+package com.home.automation.ws;
 
-import com.ausy.syf.rps.ws.model.CardEnum;
-import com.ausy.syf.rps.ws.model.ResultEnum;
-import com.ausy.syf.rps.ws.model.ResultResponse;
-import com.ausy.syf.rps.ws.service.PlayService;
+import com.home.automation.ws.model.CardEnum;
+import com.home.automation.ws.model.ResultResponse;
+import com.home.automation.ws.service.PlayService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.PathVariable;
 import org.springframework.web.bind.annotation.RequestParam;

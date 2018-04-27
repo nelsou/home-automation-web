@@ -1,4 +1,4 @@
-package com.ausy.syf.rps.ws.model;
+package com.home.automation.ws.model;
 
 /**
  * Created by Nelson Levert on 2/20/17.

@@ -1,10 +1,10 @@
-package com.ausy.syf.rps.ws.service;
+package com.home.automation.ws.service;
 
-import com.ausy.syf.rps.ws.model.CardEnum;
-import com.ausy.syf.rps.ws.model.ResultEnum;
-import com.ausy.syf.rps.ws.model.ResultResponse;
-import com.ausy.syf.rps.ws.model.User;
-import com.ausy.syf.rps.ws.repository.UserRepository;
+import com.home.automation.ws.model.CardEnum;
+import com.home.automation.ws.model.ResultEnum;
+import com.home.automation.ws.model.ResultResponse;
+import com.home.automation.ws.model.User;
+import com.home.automation.ws.repository.UserRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 import org.springframework.transaction.annotation.Transactional;

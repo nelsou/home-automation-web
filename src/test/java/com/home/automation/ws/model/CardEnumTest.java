@@ -1,4 +1,4 @@
-package com.ausy.syf.rps.ws.model;
+package com.home.automation.ws.model;
 
 import junit.framework.TestCase;
 import org.junit.Test;

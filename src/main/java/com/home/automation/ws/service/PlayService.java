@@ -1,7 +1,7 @@
-package com.ausy.syf.rps.ws.service;
+package com.home.automation.ws.service;
 
-import com.ausy.syf.rps.ws.model.CardEnum;
-import com.ausy.syf.rps.ws.model.ResultResponse;
+import com.home.automation.ws.model.CardEnum;
+import com.home.automation.ws.model.ResultResponse;
 
 /**
  * Created by Nelson Levert on 2/20/17.

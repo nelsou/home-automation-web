@@ -1,4 +1,4 @@
-package com.ausy.syf.rps.ws;
+package com.home.automation.ws;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
